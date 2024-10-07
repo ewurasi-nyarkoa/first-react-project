@@ -4,6 +4,7 @@ function ButtonComponent() {
   return (
     <div>
       <button type='button'>Submit text</button>
+      <button type='button'>Submit text</button>
     </div>
   )
 }
